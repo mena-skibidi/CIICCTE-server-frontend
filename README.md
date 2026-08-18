@@ -33,6 +33,8 @@ git clone https://github.com/mena-skibidi/CIICCTE-server-frontend.git
 docker compose up --build -d
 ```
 
+## Como detener la db
+
 Si el programa se ejecuto en modo detached (con la -d) se debera navegar al directorio y en la terminal correr lo siguiente para detener el proceso
 
 ```bash
