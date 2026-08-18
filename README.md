@@ -16,7 +16,7 @@ Por motivos de documentacion, este es el stack de tecnologias usado para el desa
 
 ## Como iniciar el frontend
 
-De manera personal utilizo bun para mis proyectos de desarrollo web, en teoria existe un alto grado de compatibilidad con node y npm pero para mantener la consistencia recomiendo usar [bun].(https://bun.com/)
+De manera personal utilizo bun para mis proyectos de desarrollo web, en teoria existe un alto grado de compatibilidad con node y npm pero para mantener la consistencia recomiendo usar [bun](https://bun.com/)
 
 1. Clonar el repositorio
 
